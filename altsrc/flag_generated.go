@@ -5,7 +5,7 @@ package altsrc
 import (
 	"flag"
 
-	"github.com/micro/cli/v2"
+	"github.com/ship-os/micro-cli/v2"
 )
 
 // BoolFlag is the flag type that wraps cli.BoolFlag to allow

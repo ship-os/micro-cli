@@ -6,7 +6,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/micro/cli/v2"
+	"github.com/ship-os/micro-cli/v2"
 )
 
 func TestCommandTomFileTest(t *testing.T) {

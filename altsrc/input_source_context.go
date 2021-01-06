@@ -3,7 +3,7 @@ package altsrc
 import (
 	"time"
 
-	"github.com/micro/cli/v2"
+	"github.com/ship-os/micro-cli/v2"
 )
 
 // InputSourceContext is an interface used to allow

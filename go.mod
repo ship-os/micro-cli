@@ -1,4 +1,4 @@
-module github.com/micro/cli/v2
+module github.com/ship-os/micro-cli/v2
 
 go 1.11
 
